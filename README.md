@@ -1,25 +1,26 @@
 ```markdown
-# Hello, I'm **luckyguydarkside**! 🤖
+# 🤖 Welcome to the Dark Side of Cyber Security! 💫
 
-## About Me
-I'm an AI/ML Engineer with a passion for **Cyber Security**. My mission is to harness the power of artificial intelligence and machine learning to build robust security solutions that protect against ever-evolving threats. 🚀
+### About Me
+I'm **luckyguydarkside**, a passionate **Data Scientist** with a keen interest in cyber-security. I thrive on transforming data into actionable insights to safeguard information systems. 
 
-## Tech Stack
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **Tools**: Wireshark, Metasploit, Burp Suite
-- **Cloud**: AWS, Azure
-- **Databases**: MongoDB, PostgreSQL 🔬
+### Tech Stack
+- **Languages:** Python, SQL, R
+- **Tools:** Wireshark, Metasploit, Splunk
+- **Frameworks:** TensorFlow, Scikit-learn
+- **Databases:** MongoDB, PostgreSQL
+- **Cloud:** AWS, Azure
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
+### GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Data+Scientist)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
 
-## Let's Connect! 💫
-- [LinkedIn](https://www.linkedin.com/in/luckyguydarkside)
-- [Twitter](https://twitter.com/luckyguydarkside)
-- [Email](mailto:luckyguydarkside@example.com)
+### Contact Me
+- 📧 Email: luckyguydarkside@example.com
+- 🐦 Twitter: [@luckyguydark](https://twitter.com/luckyguydark)
+- 🌐 Portfolio: [luckyguydarkside.com](https://luckyguydarkside.com)
 
-📈 Stay curious, stay secure!
+Let's secure the digital world together! 🔬🧠
 ```
