@@ -1,26 +1,22 @@
 ```markdown
-# 🤖 Welcome to the Dark Side of Cyber Security! 💫
+# 👾 Welcome to the Dark Side! 
 
-### About Me
-I'm **luckyguydarkside**, a passionate **Data Scientist** with a keen interest in cyber-security. I thrive on transforming data into actionable insights to safeguard information systems. 
+## About Me 🧠
+I'm **luckyguydarkside**, an NLP Specialist with a passion for enhancing cyber-security through intelligent language processing. I thrive at the intersection of technology and security, protecting data while deciphering the complexities of human language. 
 
-### Tech Stack
-- **Languages:** Python, SQL, R
-- **Tools:** Wireshark, Metasploit, Splunk
-- **Frameworks:** TensorFlow, Scikit-learn
-- **Databases:** MongoDB, PostgreSQL
+## Tech Stack 🔬
+- **Languages:** Python, JavaScript, Bash
+- **Frameworks:** TensorFlow, PyTorch, Flask
+- **Tools:** Wireshark, Metasploit, Burp Suite
+- **Databases:** SQL, NoSQL
 - **Cloud:** AWS, Azure
 
-### GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Data+Scientist)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
+## GitHub Stats 📈
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
 
-### Contact Me
-- 📧 Email: luckyguydarkside@example.com
-- 🐦 Twitter: [@luckyguydark](https://twitter.com/luckyguydark)
-- 🌐 Portfolio: [luckyguydarkside.com](https://luckyguydarkside.com)
-
-Let's secure the digital world together! 🔬🧠
+## Let's Connect! 💫
+- **Twitter:** [@luckyguydarkside](https://twitter.com/luckyguydarkside)
+- **LinkedIn:** [luckyguydarkside](https://linkedin.com/in/luckyguydarkside)
 ```
