@@ -1,25 +1,27 @@
 ```markdown
-# 👾 Welcome to Luckyguydarkside's Cyber Security Realm! 🛡️
+# Welcome to the Darkside! 🌌
+
+![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
+![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=NLP+Specialist)
 
 ## About Me 🤖
-Hi there! I'm an **AI/ML Engineer** with a passion for cyber security. I believe that the future of digital protection lies in the hands of intelligent algorithms and machine learning models. Let's explore the dark side of the web together!
+I'm **luckyguydarkside**, an NLP Specialist delving into the realms of **cyber-security**. My passion lies in harnessing the power of Natural Language Processing to enhance security protocols and identify vulnerabilities through intelligent data analysis. 🧠
 
-## Tech Stack 💻
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
+## Tech Stack 🔬
+- **Languages**: Python, JavaScript
+- **Frameworks**: TensorFlow, PyTorch
 - **Tools**: Wireshark, Metasploit, Burp Suite
-- **Cloud**: AWS, Azure
-- **Databases**: SQL, MongoDB
+- **Databases**: MongoDB, PostgreSQL
+- **Other**: Docker, Kubernetes, AWS
 
 ## GitHub Stats 📈
-![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
 
-## Contact Me 💫
-- **Twitter**: [@luckyguydarkside](https://twitter.com/luckyguydarkside)
-- **LinkedIn**: [luckyguydarkside](https://linkedin.com/in/luckyguydarkside)
+## Contact 💫
+- [Twitter](https://twitter.com/luckyguydarkside)
+- [LinkedIn](https://linkedin.com/in/luckyguydarkside)
+- [Email](mailto:luckyguydarkside@example.com)
 
-Let's secure the digital world together! 🔬
+Let's secure the digital world together! 🔐
 ```
