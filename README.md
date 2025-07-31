@@ -1,46 +1,44 @@
 ```markdown
-# 👤 About Me
-Welcome to my corner of the digital world! I'm **luckyguydarkside**, an OSINT Analyst with a passion for uncovering hidden insights and navigating the vast ocean of available data. My journey in cybersecurity is driven by curiosity and the thrill of the hunt. Let's explore together! 🔍
+# 🌐 Welcome to the Dark Side of OSINT! 🔍
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
 
 ---
 
-# 💻 Tech Stack
-Here are the tools I wield in my quest for information:
-
-| Language/Tool | Badge |
-|----------------|-------|
-| Python         | ![Python](https://img.shields.io/badge/Python-3.9-blue) |
-| Go             | ![Go](https://img.shields.io/badge/Go-1.17-blue) |
-| Bash           | ![Bash](https://img.shields.io/badge/Bash-5.1-green) |
-| Kali Linux     | ![Kali](https://img.shields.io/badge/Kali%20Linux-2021.3-blue) |
-| Wireshark      | ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.6-blue) |
-| Metasploit     | ![Metasploit](https://img.shields.io/badge/Metasploit-6.0.0-orange) |
-| Nmap           | ![Nmap](https://img.shields.io/badge/Nmap-7.91-red) |
-
-![Data Flow GIF](https://media.giphy.com/media/3o6fJ5pZpU8M8YBvPq/giphy.gif)
+## About Me
+I'm **Luckyguydarkside**, your dedicated OSINT Analyst, navigating the intricate webs of information. With a keen eye for detail and a passion for cybersecurity, I uncover insights that others overlook. My mission? To empower organizations with actionable intelligence and safeguard against emerging threats. Let's decode the digital realm together! 🕵️
 
 ---
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-0078D7?style=flat&logo=metasploit&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat&logo=nmap&logoColor=white)
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
 
 ---
 
-# 📬 Contact Me
-Feel free to reach out:
-- Email: [luckyguydarkside@example.com](mailto:luckyguydarkside@example.com)
-- LinkedIn: [luckyguydarkside](https://www.linkedin.com/in/luckyguydarkside)
+## 📡 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/luckyguydarkside/)
+- [Twitter](https://twitter.com/luckyguydarkside)
 
 ---
 
-# 🌐 Let's Connect
-![Network Scanning GIF](https://media.giphy.com/media/2w6UoFQ4pI5d1a8d4R/giphy.gif)
+![Hacking Animation](https://media.giphy.com/media/l2JdU6sO0qK3q4z3e/giphy.gif)
+![Data Flow](https://media.giphy.com/media/xUOxf5DqU5c9w3cdYY/giphy.gif)
 
-Together, let’s make the digital realm a safer place! 🔐
-```
+---
 
-This README combines a professional tone with engaging visuals and dynamic elements, ensuring a unique experience for viewers while emphasizing the user's expertise in OSINT and cybersecurity.
+``` 
+
+This README captures the essence of an OSINT Analyst while incorporating engaging elements that enhance the visual appeal and thematic relevance to cybersecurity. The GIFs and badges create a dynamic and professional presentation.
