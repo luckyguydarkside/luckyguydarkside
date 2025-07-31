@@ -1,48 +1,41 @@
 ```markdown
-# 👋 Welcome to the Dark Side of OSINT! 🌐
+# 👤 About Me
+Hello! I'm **luckyguydarkside**, a passionate **Data Sleuth** focused on the fascinating world of **OSINT**. 🕵️ I thrive on unraveling the hidden truths and patterns within vast data sets. My mission? To empower cybersecurity initiatives with insightful intelligence and innovative solutions. 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
-
-## 🔍 About Me
-
-I'm **luckyguydarkside**, an OSINT Analyst dedicated to uncovering the unseen and analyzing data flows to enhance cybersecurity. My mission? To turn raw data into actionable intelligence and protect our digital world from lurking threats. Let's explore the data landscape together! 🕵️‍♂️
-
-![Data Flow](https://media.giphy.com/media/3o72FcQ6gX0aH9F2yE/giphy.gif)
+![Hacker](https://media.giphy.com/media/3o6Zt8z7D6d6pM5z6A/giphy.gif)
 
 ---
 
-## 📡 Tech Stack
+## 🛠️ Tech Stack
+I wield a versatile arsenal of tools and languages to dissect the digital landscape:
 
-| Language/Tool | Badge |
-|:--------------|:-----:|
-| Python        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Go            | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
-| Bash          | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
-| Kali Linux    | ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
-| Wireshark     | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| Metasploit    | ![Metasploit](https://img.shields.io/badge/Metasploit-7C3AED?style=flat&logo=metasploit&logoColor=white) |
-| Nmap          | ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) |
-
-![Cybersecurity Progress](https://media.giphy.com/media/2wS1zI2ByD9yYcK5xc/giphy.gif)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+- ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+- ![Wireshark](https://img.shields.io/badge/Wireshark-3F3FFF?style=flat-square&logo=wireshark&logoColor=white)
+- ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+- ![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true) 
+![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)
 
 ---
 
-## 🌐 Let's Connect!
+## 📫 Contact Me
+Let's connect! 
 
-- [LinkedIn](https://www.linkedin.com/in/luckyguydarkside)
-- [Twitter](https://twitter.com/luckyguydarkside)
-- [Website](https://luckyguydarkside.com)
+- [LinkedIn](https://www.linkedin.com/in/luckyguydarkside) 
+- [Twitter](https://twitter.com/luckyguydarkside) 
 
-![Network Visualization](https://media.giphy.com/media/QdT8FqZg7G1yBq7XfK/giphy.gif)
+![Cybersecurity](https://media.giphy.com/media/l0Exk8E8fF3f5C3oI/giphy.gif)
 
 ---
+
+*Embrace the journey of discovery! 🌐*
 ```
-This README combines a professional tone with dynamic visuals and engaging content, ensuring a unique and captivating presence on GitHub.
