@@ -1,40 +1,48 @@
 ```markdown
-# 🔍 Welcome to the Dark Side of OSINT! 🌐
+# 👋 Welcome to the Dark Side of OSINT! 🌐
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
 
-## About Me 🌟
-Hey there! I'm **luckyguydarkside**, your friendly neighborhood OSINT Analyst. I dive deep into the digital shadows, uncovering hidden information and maintaining cybersecurity. My passion lies in transforming raw data into actionable insights. Join me on this thrilling journey as we explore the art of intelligence gathering!
+## 🔍 About Me
 
-## Tech Stack 🛠️
-Here's a peek into my toolbox for OSINT mastery:
+I'm **luckyguydarkside**, an OSINT Analyst dedicated to uncovering the unseen and analyzing data flows to enhance cybersecurity. My mission? To turn raw data into actionable intelligence and protect our digital world from lurking threats. Let's explore the data landscape together! 🕵️‍♂️
+
+![Data Flow](https://media.giphy.com/media/3o72FcQ6gX0aH9F2yE/giphy.gif)
+
+---
+
+## 📡 Tech Stack
 
 | Language/Tool | Badge |
-|----------------|-------|
-| Python         | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Go             | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
-| Bash           | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| Kali Linux     | ![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
-| Wireshark      | ![Wireshark](https://img.shields.io/badge/-Wireshark-3A8EBA?style=flat&logo=wireshark&logoColor=white) |
-| Metasploit     | ![Metasploit](https://img.shields.io/badge/-Metasploit-0078D7?style=flat&logo=metasploit&logoColor=white) |
-| Nmap           | ![Nmap](https://img.shields.io/badge/-Nmap-4B9CD3?style=flat&logo=nmap&logoColor=white) |
+|:--------------|:-----:|
+| Python        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Go            | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| Bash          | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| Kali Linux    | ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
+| Wireshark     | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| Metasploit    | ![Metasploit](https://img.shields.io/badge/Metasploit-7C3AED?style=flat&logo=metasploit&logoColor=white) |
+| Nmap          | ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white) |
 
-## GitHub Stats 📊
+![Cybersecurity Progress](https://media.giphy.com/media/2wS1zI2ByD9yYcK5xc/giphy.gif)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true) 
+![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
 
-## Let's Connect! 🌐
-- [Twitter](https://twitter.com/luckyguydarkside) 🐦
-- [LinkedIn](https://linkedin.com/in/luckyguydarkside) 🔗
-- [GitHub](https://github.com/luckyguydarkside) 🖥️
+---
 
-![Hacking GIF](https://media.giphy.com/media/26FL2qg1v3D1kXy4A/giphy.gif)
+## 🌐 Let's Connect!
 
-Together, let's unlock the secrets of the digital world! 🔐
+- [LinkedIn](https://www.linkedin.com/in/luckyguydarkside)
+- [Twitter](https://twitter.com/luckyguydarkside)
+- [Website](https://luckyguydarkside.com)
+
+![Network Visualization](https://media.giphy.com/media/QdT8FqZg7G1yBq7XfK/giphy.gif)
+
+---
 ```
-
-### Note:
-- The GIF link used is an example; you may replace it with any other relevant GIF from Giphy.
-- Ensure that the links to social media profiles and GitHub are accurate and lead to the intended pages.
-- The badges can be customized further based on your preference.
+This README combines a professional tone with dynamic visuals and engaging content, ensuring a unique and captivating presence on GitHub.
