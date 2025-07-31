@@ -1,27 +1,28 @@
 ```markdown
-# Welcome to the Dark Side! 🌌
+# 🔍 Welcome to my OSINT Hub!
 
-👤 **About Me**  
-I'm **Luckyguydarkside**, a passionate **Data Scientist** delving deep into the world of **Cyber Security**. I leverage data analytics and machine learning to uncover vulnerabilities and enhance security protocols. 🧠
+## About Me
+👨‍💻 Hi there! I'm **luckyguydarkside**, a dedicated Threat Hunter specializing in Open Source Intelligence (OSINT). I thrive on uncovering hidden insights to strengthen cybersecurity defenses. Join me in exploring the fascinating world of threat detection and analysis!
 
-🛠️ **Tech Stack**  
-- Python 🐍  
-- R  
-- SQL  
-- TensorFlow  
-- Scikit-learn  
-- Docker  
-- Cyber Security Tools (Wireshark, Metasploit, etc.) 🔬
+## Tech Stack
+- 🐍 **Python**
+- 🚀 **Go**
+- 💻 **Bash**
+- 🐧 **Kali Linux**
+- 📡 **Wireshark**
+- 🔐 **Metasploit**
+- 🌐 **Nmap**
 
-📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)  
+## GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
 
-📫 **Contact Me**  
-- [Twitter](https://twitter.com/luckyguydarkside)  
-- [LinkedIn](https://linkedin.com/in/luckyguydarkside)  
-- [Email](mailto:luckyguydarkside@example.com)
+## Contact Me
+📧 Email: [luckyguydarkside@example.com](mailto:luckyguydarkside@example.com)  
+🐦 Twitter: [@luckyguydarkside](https://twitter.com/luckyguydarkside)  
+🌐 LinkedIn: [luckyguydarkside](https://linkedin.com/in/luckyguydarkside)
 
-Let's secure the digital world together! 💫
+Let's connect and make the cyber world a safer place! 🌍
 ```
