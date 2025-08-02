@@ -1,46 +1,44 @@
 ```markdown
-# Welcome to the Dark Side of OSINT! 🔍
+# 👤 Welcome to the Dark Side of Threat Hunting – luckyguydarkside
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
-
----
-
-## About Me 🌐
-I'm **luckyguydarkside**, a passionate OSINT Analyst dedicated to uncovering the hidden truths of the digital world. With a keen eye for detail and a love for cybersecurity, I thrive on turning data into actionable insights. Join me on this journey of exploration and discovery!
-
----
-
-## Tech Stack 🛠️
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-#003B5C?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-008F11?style=flat-square&logo=nmap&logoColor=white)
-
----
-
-## GitHub Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
 
 ---
 
-## Get in Touch 📡
-- [Twitter](https://twitter.com/luckyguydarkside)
-- [LinkedIn](https://linkedin.com/in/luckyguydarkside)
-- [Email](mailto:luckyguydarkside@example.com)
+## 🔍 About Me
+I am a passionate **Threat Hunter** dedicated to uncovering hidden threats and vulnerabilities in the cyber landscape. With a keen eye for detail and a relentless pursuit of knowledge, I thrive on transforming complex data into actionable insights. My mission is to safeguard digital environments and empower organizations to defend against evolving threats. 🌐
 
 ---
 
-![Hacking GIF](https://media.giphy.com/media/nFh4mM0qHc5W8/giphy.gif)
-![Data Flow GIF](https://media.giphy.com/media/xT5LMV4Vh8L2l6Gz9y/giphy.gif)
+## 📡 Tech Stack
+Here are some of the tools and technologies I frequently utilize in my threat hunting endeavors:
+
+- **Languages**: Python, JavaScript, SQL
+- **Tools**: Wireshark, Metasploit, Burp Suite
+- **Platforms**: AWS, Azure, Docker
+- **Frameworks**: ELK Stack, Apache Spark
+- **Databases**: MongoDB, PostgreSQL
 
 ---
 
-*Let the hunt begin!*
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
+
+---
+
+## 🔐 Contact
+Feel free to reach out to me for collaboration, discussions, or sharing insights in the realm of cybersecurity:
+
+- **Email**: [luckyguydarkside@example.com](mailto:luckyguydarkside@example.com)
+- **Twitter**: [@luckyguydarkside](https://twitter.com/luckyguydarkside)
+- **LinkedIn**: [luckyguydarkside](https://www.linkedin.com/in/luckyguydarkside)
+
+---
+
+🔦 Let's illuminate the shadows together! 🕵️‍♂️
+
 ```
+This README provides an engaging overview of the user "luckyguydarkside," emphasizing their role as a Threat Hunter while integrating dynamic statistics and a professional tone. Feel free to customize the email and social media links as necessary!
