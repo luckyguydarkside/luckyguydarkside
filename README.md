@@ -1,33 +1,43 @@
 ```markdown
-# 👤 Welcome to the Dark Side of OSINT! 🌐
+# 💼 Welcome to the Dark Side of OSINT! 🌐
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
+## About Me
+Greetings! I'm **luckyguydarkside**, an OSINT Analyst navigating the complexities of cybersecurity. With a passion for unearthing hidden data and a knack for analysis, I thrive on turning raw information into actionable intelligence. Let's dive into the shadows and illuminate the truth together! 🔍🕵️
 
-## About Me 🔍
-Hello! I'm **luckyguydarkside**, an OSINT (Open Source Intelligence) Analyst with a passion for uncovering hidden insights from publicly available data. With a keen eye for detail and a commitment to ethical research, I enjoy navigating the vast digital landscape to gather intelligence that drives informed decision-making.
+![Hacking GIF](https://media.giphy.com/media/3o7btQ0DjaGte1h8gA/giphy.gif)
 
-### My Mission
-To empower individuals and organizations with actionable intelligence by leveraging the power of open-source data.
+---
 
-## Tech Stack 📡
-- **Languages:** Python, JavaScript, SQL
-- **Tools:** Maltego, OSINT Framework, Recon-ng
-- **Databases:** Elasticsearch, MongoDB
-- **Platforms:** GitHub, Google Dorking, Shodan
-- **Techniques:** Data Mining, Web Scraping, Social Media Analysis
+## Tech Stack 🛠️
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff) 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=ffffff) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=ffffff)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=ffffff)
+![Wireshark](https://img.shields.io/badge/-Wireshark-3FAE3B?style=flat&logo=wireshark&logoColor=ffffff)
+![Metasploit](https://img.shields.io/badge/-Metasploit-00B0E1?style=flat&logo=metasploit&logoColor=ffffff)
+![Nmap](https://img.shields.io/badge/-Nmap-4EAA25?style=flat&logo=nmap&logoColor=ffffff)
 
-## Stats 📊
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
-![Streak Stats](https://readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
+---
+
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyguydarkside&theme=dark&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue) 
+
+---
+
+## Connect with Me 📫
+- [Twitter](https://twitter.com/luckyguydarkside)
+- [LinkedIn](https://linkedin.com/in/luckyguydarkside)
+
+![Typing Animation](https://media.giphy.com/media/3o7btP9e7uDg0Fv4gU/giphy.gif)
+
+---
+
+## Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
 
-## Contact 🤝
-Let's connect! You can reach me through the following platforms:
-- **Email:** [luckyguydarkside@example.com](mailto:luckyguydarkside@example.com)
-- **LinkedIn:** [linkedin.com/in/luckyguydarkside](https://www.linkedin.com/in/luckyguydarkside)
-- **Twitter:** [@luckyguydarkside](https://twitter.com/luckyguydarkside)
+---
 
-Feel free to drop a message or connect with me on any of these platforms. Let’s explore the world of OSINT together! 🔐
+### Let's make the cyber world a safer place! 🔐
 ```
-
-This README uses Markdown format with appropriate sections and emojis to create a visually stunning and professional presence for the user "luckyguydarkside" in the OSINT field. Each element is integrated seamlessly to enhance readability and engagement.
