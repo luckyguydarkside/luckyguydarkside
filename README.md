@@ -1,39 +1,45 @@
 ```markdown
-# Welcome to the Dark Side of Data! 🕵️‍♂️🌐
+# 🌐 **Welcome to the Dark Side of OSINT** 🕵️
 
-![Profile Views](https://komarev.com/ghpvc/?username=luckyguydarkside&color=blue)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Data+Sleuth)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
 
-## About Me 🔍
-I'm **luckyguydarkside**, a passionate Data Sleuth in the OSINT realm. With an insatiable curiosity for uncovering hidden truths, I delve deep into the digital abyss to expose insights that empower cybersecurity initiatives. Join me on this thrilling journey of discovery!
+## 🔍 **About Me**
+As a dedicated Threat Hunter specializing in Open Source Intelligence (OSINT), I thrive on unraveling complex cyber threats. My mission? To turn data into actionable insights, ensuring a safer digital landscape. Join me on this journey through the shadows of cyberspace!
 
----
-
-## Tech Stack 💻
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=FFFFFF)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=FFFFFF)
-![Wireshark](https://img.shields.io/badge/Wireshark-3A4A96?style=flat-square&logo=wireshark&logoColor=FFFFFF)
-![Metasploit](https://img.shields.io/badge/Metasploit-5C4F9A?style=flat-square&logo=metasploit&logoColor=FFFFFF)
-![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=FFFFFF)
+![Cybersecurity Animation](https://media.giphy.com/media/3o6Zt8t8ZrrHptD4pW/giphy.gif)
 
 ---
 
-## GitHub Stats 📊
+## 💻 **Tech Stack**
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ffffff)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-88CCF1?style=flat-square&logo=wireshark&logoColor=ffffff)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-3B9AE1?style=flat-square&logo=metasploit&logoColor=ffffff)  
+![Nmap](https://img.shields.io/badge/-Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=ffffff)
+
+---
+
+## 📊 **GitHub Stats**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguydarkside&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=luckyguydarkside&theme=dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckyguydarkside&theme=onedark)
 
 ---
 
-## Contact Me 🔐
-- 📧 Email: [luckyguydarkside@example.com](mailto:luckyguydarkside@example.com)
-- 💼 LinkedIn: [luckyguydarkside](https://linkedin.com/in/luckyguydarkside)
+## 📡 **Contact Me**
+- **LinkedIn:** [luckyguydarkside](https://www.linkedin.com/in/luckyguydarkside)
+- **Twitter:** [@luckyguydarkside](https://twitter.com/luckyguydarkside)
 
 ---
 
-![Data Flow](https://media.giphy.com/media/3o7buxt9q0MxB5R2zC/giphy.gif)
-![Network Scan](https://media.giphy.com/media/3o7buxt9q0MxB5R2zC/giphy.gif)
+![Data Flow Visualization](https://media.giphy.com/media/3o7aCVr5m2rF8bNwD6/giphy.gif)
 ```
 
-This README features a dynamic design that reflects the user's expertise in OSINT and cybersecurity. The custom SVGs and GIFs enhance visual appeal and engagement, making it an eye-catching profile for visitors.
+### Notes:
+- The README includes vibrant sections with GIFs that enhance the theme and provide a dynamic feel.
+- Skill badges visually represent the tech stack relevant to OSINT and cybersecurity.
+- Contact information is clear and professional.
+- The layout is varied and unique, with engaging content that captures the essence of a Threat Hunter in the OSINT field.
